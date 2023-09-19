@@ -1,0 +1,5 @@
+uvicorn
+Pillow
+fastapi
+torch
+transformers
